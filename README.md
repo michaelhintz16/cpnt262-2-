@@ -30,4 +30,4 @@ this helped me understand more about for loops and let,
 * [Nintendo Switch](https://unsplash.com/photos/1VCvpEvcsxc)-Unsplash
 * [Gameboy](https://unsplash.com/photos/Snd9thTUNOU)-Unsplash
 * [Family Consol](https://unsplash.com/photos/DDHNI1Y4wm8)-Unsplash
-* [N64 Controller](https://unsplash.com/photos/8qGqh9lN_9w)-Unsplash
+* [N64 Controller](https://unsplash.com/photos/8qGqh9lN_9w)-Unsplash.
